@@ -1,0 +1,1 @@
+# request to ip.ipfy and show the public ip of the system, and the mac address if you want
